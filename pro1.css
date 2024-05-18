@@ -1,0 +1,27 @@
+.hide{
+    display: none;
+    margin-bottom: 20px;
+}
+.show{
+    display: inline;
+    color: red;
+    margin-top: 10px;
+}
+
+#main{
+    background-color: black;
+    color: white;
+}
+#less{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.b3{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+#clk>button{
+    margin: 10px;
+
+}
